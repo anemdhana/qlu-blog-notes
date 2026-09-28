@@ -44,6 +44,9 @@ qlu-blog-notes/
 ├── GaneshaChaturthi/
 │   └── Dr-Newton-Kondaveti/
 │       └── Wake_Up_Call_2023_Day1_Abundance_is_our_Birthright.html
+├── PitruPaksha/
+│   └── Dr-Newton-and-Dr-Lakshmi/
+│       └── Pitru_Paksha_Full_Moon_Honoring_Ancestors.html
 ├── SriKrishnastami/
 │   └── (future notes)
 ├── Navratri/
@@ -53,9 +56,10 @@ qlu-blog-notes/
 
 ### Current Content
 
-| Festival / Occasion     | Author                  | Teaching                                      |
-|-------------------------|-------------------------|-----------------------------------------------|
-| Ganesha Chaturthi       | Dr. Newton Kondaveti    | Wake-up Call 2023 – Day 1: Abundance is our Birthright |
+| Festival / Occasion     | Author                        | Teaching                                      |
+|-------------------------|-------------------------------|-----------------------------------------------|
+| Ganesha Chaturthi       | Dr. Newton Kondaveti          | Wake-up Call 2023 – Day 1: Abundance is our Birthright |
+| Pitru Paksha (Full Moon)| Dr. Newton & Dr. Lakshmi      | Honoring Our Ancestors – Message, Practice & Guidance |
 
 ---
 
